@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Khan</h1>
-<h3 align="center">A Data Science enthusiast from Canada</h3>
+<h3 align="center">A Data Scientist enthusiast from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha-10&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha-10" /> </p>
 
@@ -17,9 +17,11 @@
 
 - 📫 How to reach me **aniruddhakhan747@gmail.com**
 
+- ⚡ Fun fact **too alien for Earth and too human for Outer space**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniruddhakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddhakhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aniruddha-khan-4b052121a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aniruddha-khan-4b052121a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
