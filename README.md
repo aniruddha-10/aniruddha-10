@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi I am Aniruddha ✌️😃
 🔭 I’m currently working on learning ML/Data Analytics concepts<br>👯 I’m looking to collaborate on Full stack web dev,ML,Data Analytics<br>📫 How to reach me aniruddhakhan747@gmail.com<br>⚡ Fun fact - Too alien for Earth 🙂 and too human for outer space 💀
 
 
